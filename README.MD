@@ -56,4 +56,6 @@ Percentage: 84.6
 Grade: A
 Result: PASS
 Congratulations! You passed.
+## Output Screenshot
 
+![Student Grade Calculator Output](grade-calculator-output.png)
